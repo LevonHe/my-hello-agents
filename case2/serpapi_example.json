@@ -1,0 +1,327 @@
+{
+    "search_metadata": {
+        "id": "69c7f6da31a60138066c01a5",
+        "status": "Success",
+        "json_endpoint": "https: //serpapi.com/searches/mIVy85nCzqWi2En1cAafgQ/69c7f6da31a60138066c01a5.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/mIVy85nCzqWi2En1cAafgQ/69c7f6da31a60138066c01a5.json_with_pixel_position",
+        "created_at": "2026-03-28 15:42:18 UTC",
+        "processed_at": "2026-03-28 15:42:18 UTC",
+        "google_url": "https://www.google.com/search?q=%E6%B2%B3%E5%8D%97%E7%9A%84%E7%9C%81%E4%BC%9A%E6%98%AF%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%EF%BC%9F&oq=%E6%B2%B3%E5%8D%97%E7%9A%84%E7%9C%81%E4%BC%9A%E6%98%AF%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%EF%BC%9F&hl=zh-cn&gl=cn&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/mIVy85nCzqWi2En1cAafgQ/69c7f6da31a60138066c01a5.html",
+        "total_time_taken": 5.36
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "河南的省会是哪个城市？",
+        "google_domain": "google.com",
+        "hl": "zh-cn",
+        "gl": "cn",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "河南的省会是哪个城市？",
+        "total_results": 7,
+        "time_taken_displayed": 0.27,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "河南省有几个城市？",
+            "type": "featured_snippet",
+            "snippet": "河南辖郑州、开封、洛阳、平顶山、安阳、鹤壁、新乡、焦作、濮阳、许昌、漯河、三门峡、南阳、商丘、信阳、周口、驻马店等17个地级市，1个省直辖县级行政单位济源市，21个县级市，83个县，53个市辖区，1791个乡镇，662个街道办事处。",
+            "title": "河南省省辖市有几个 - 本地宝",
+            "date": "2021年11月26日",
+            "link": "http://wenda.bendibao.com/life/20211126/175948.shtm",
+            "displayed_link": "http://wenda.bendibao.com › life",
+            "source_logo": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/SBFUxVCBYJYqbEx6O-3W6uPxcLEi8wDVK2hwfZuf5qk.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHmnInlh6DkuKrln47luILvvJ8iLCJsayI6IkdoM21zclBsalpjZzU1eUJJT2FjaVNEbGg2QWc1TGlxSU9XZmp1VzRnZyIsImJzIjoiYy1OeTVKSi10bW56MDk3cHotYzBQcHZULWJSOXdaTWRxNTdPNzN1Nm8tbjludmtTMHdXTjVLVmtJU29VZ0VvVWdHb1VnSW9VZ0tvVUlNcTRISkNNZU5xNV9zbU90VV8zTnlPTTJCWmpKQ2NsZzJRRVVJMENSQkhNQkJzdWVSUkhURjcxWk5mc0p6c2FudV9hRDFGaExfSEkxRWhNU2dScUNrUUttXzNQWjdVOFhiTDg2ZHBsel9vbVBaM1FDN0xfYndxYV9VQTFDaEJGQ2hCVkFvd0EiLCJpZCI6ImZjXzNfYkhhWTJVRDZ5amtkVVA3Sl9kNFE4XzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHmnInlh6DkuKrln47luILvvJ8iLCJsayI6IkdoM21zclBsalpjZzU1eUJJT2FjaVNEbGg2QWc1TGlxSU9XZmp1VzRnZyIsImJzIjoiYy1OeTVKSi10bW56MDk3cHotYzBQcHZULWJSOXdaTWRxNTdPNzN1Nm8tbjludmtTMHdXTjVLVmtJU29VZ0VvVWdHb1VnSW9VZ0tvVUlNcTRISkNNZU5xNV9zbU90VV8zTnlPTTJCWmpKQ2NsZzJRRVVJMENSQkhNQkJzdWVSUkhURjcxWk5mc0p6c2FudV9hRDFGaExfSEkxRWhNU2dScUNrUUttXzNQWjdVOFhiTDg2ZHBsel9vbVBaM1FDN0xfYndxYV9VQTFDaEJGQ2hCVkFvd0EiLCJpZCI6ImZjXzNfYkhhWTJVRDZ5amtkVVA3Sl9kNFE4XzEifQ%3D%3D"
+        },
+        {
+            "question": "河南省副中心城市？",
+            "type": "featured_snippet",
+            "snippet": "省域副中心城市列表",
+            "table": [
+                [
+                    "省份",
+                    "省域副中心（次中心）城市（地區）"
+                ],
+                [
+                    "江西省",
+                    "上饒市"
+                ],
+                [
+                    "廣東省",
+                    "湛江市、汕頭市"
+                ],
+                [
+                    "湖南省",
+                    "岳陽市、衡陽市"
+                ],
+                [
+                    "河南省",
+                    "洛陽市、南陽市"
+                ]
+            ],
+            "formatted": [
+                {
+                    "省份": "江西省",
+                    "省域副中心_次中心_城市_地區": "上饒市"
+                },
+                {
+                    "省份": "廣東省",
+                    "省域副中心_次中心_城市_地區": "湛江市、汕頭市"
+                },
+                {
+                    "省份": "湖南省",
+                    "省域副中心_次中心_城市_地區": "岳陽市、衡陽市"
+                },
+                {
+                    "省份": "河南省",
+                    "省域副中心_次中心_城市_地區": "洛陽市、南陽市"
+                }
+            ],
+            "title": "省域副中心城市- 維基百科",
+            "link": "https://zh.wikipedia.org/zh-tw/%E7%9C%81%E5%9F%9F%E5%89%AF%E4%B8%AD%E5%BF%83%E5%9F%8E%E5%B8%82",
+            "displayed_link": "https://zh.wikipedia.org › zh-tw › 省域副中心城市",
+            "source_logo": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/SBFUxVCBYJYqbEx6O-3W6makKeVLs1s9bG_7yI1b6q4.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHlia/kuK3lv4Pln47luILvvJ8iLCJsayI6Ikdoem1zclBsalpjZzU1eUJJT1dKcnlEa3VLM2x2NE1nNVotTzViaUMiLCJicyI6ImMtTnk1SkotdG1uejA5N3B6LWMwUHB2VC1iUjl3Wk1kcTU3TzczdTZvLW45bnZrUzB3V041S1ZrSVNvVWdFb1VnR29VZ0lvVWdLb1VJTXE0SEpDTWVOcTVfc21PdFVfM055T00yQlpqSkNjbGcyUUVVSTBDUkJITUJCc3VlUlJIVEY3MVpOZnNKenNhbnVfYUQxRmhMX0hJMUVoTVNnUnFDa1FLbV8zUFo3VThYYkw4NmRwbHpfb21QWjNRQzdMX2J3cWFfVUExQ2hCRkNoQlZBb3dBIiwiaWQiOiJmY18zX2JIYVkyVUQ2eWprZFVQN0pfZDRROF8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHlia%2FkuK3lv4Pln47luILvvJ8iLCJsayI6Ikdoem1zclBsalpjZzU1eUJJT1dKcnlEa3VLM2x2NE1nNVotTzViaUMiLCJicyI6ImMtTnk1SkotdG1uejA5N3B6LWMwUHB2VC1iUjl3Wk1kcTU3TzczdTZvLW45bnZrUzB3V041S1ZrSVNvVWdFb1VnR29VZ0lvVWdLb1VJTXE0SEpDTWVOcTVfc21PdFVfM055T00yQlpqSkNjbGcyUUVVSTBDUkJITUJCc3VlUlJIVEY3MVpOZnNKenNhbnVfYUQxRmhMX0hJMUVoTVNnUnFDa1FLbV8zUFo3VThYYkw4NmRwbHpfb21QWjNRQzdMX2J3cWFfVUExQ2hCRkNoQlZBb3dBIiwiaWQiOiJmY18zX2JIYVkyVUQ2eWprZFVQN0pfZDRROF8xIn0%3D"
+        },
+        {
+            "question": "河南省有哪些一线城市?",
+            "type": "featured_snippet",
+            "snippet": "河南位于我国华中地区，是我国人口大省，人口总量位于国内省份第三，仅次于广东省和山东省。 由第一财经发布的我国商业城市排行榜出炉，河南省各地城市等级排名情况如下。 新一线城市上榜一座，为郑州市，河南省暂无二线城市上榜。",
+            "title": "河南省各地级城市排名情况出炉，郑州为新一线城市，三线城市7个 - 搜狐",
+            "date": "2025年8月3日",
+            "link": "https://www.sohu.com/a/920362845_122491953",
+            "displayed_link": "https://www.sohu.com › ...",
+            "source_logo": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/SBFUxVCBYJYqbEx6O-3W6osnOSmWW9B20yEbTYbQPPc.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHmnInlk6rkupvkuIDnur/ln47luII/IiwibGsiOiJHaFRtc3JQbGpaY2c1TGlBNTdxX0lPV2ZqdVc0Z2ciLCJicyI6ImMtTnk1SkotdG1uejA5N3B6LWMwUHB2VC1iUjl3Wk1kcTU3TzczdTZvLW45bnZrUzB3V041S1ZrSVNvVWdFb1VnR29VZ0lvVWdLb1VJTXE0SEpDTWVOcTVfc21PdFVfM055T00yQlpqSkNjbGcyUUVVSTBDUkJITUJCc3VlUlJIVEY3MVpOZnNKenNhbnVfYUQxRmhMX0hJMUVoTVNnUnFDa1FLbV8zUFo3VThYYkw4NmRwbHpfb21QWjNRQzdMX2J3cWFfVUExQ2hCRkNoQlZBb3dBIiwiaWQiOiJmY18zX2JIYVkyVUQ2eWprZFVQN0pfZDRROF8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHmnInlk6rkupvkuIDnur%2Fln47luII%2FIiwibGsiOiJHaFRtc3JQbGpaY2c1TGlBNTdxX0lPV2ZqdVc0Z2ciLCJicyI6ImMtTnk1SkotdG1uejA5N3B6LWMwUHB2VC1iUjl3Wk1kcTU3TzczdTZvLW45bnZrUzB3V041S1ZrSVNvVWdFb1VnR29VZ0lvVWdLb1VJTXE0SEpDTWVOcTVfc21PdFVfM055T00yQlpqSkNjbGcyUUVVSTBDUkJITUJCc3VlUlJIVEY3MVpOZnNKenNhbnVfYUQxRmhMX0hJMUVoTVNnUnFDa1FLbV8zUFo3VThYYkw4NmRwbHpfb21QWjNRQzdMX2J3cWFfVUExQ2hCRkNoQlZBb3dBIiwiaWQiOiJmY18zX2JIYVkyVUQ2eWprZFVQN0pfZDRROF8xIn0%3D"
+        },
+        {
+            "question": "河南省的大学排名？",
+            "type": "featured_snippet",
+            "table": [
+                [
+                    "排名",
+                    "学校名称",
+                    "地区总数"
+                ],
+                [
+                    "1",
+                    "郑州大学",
+                    "58"
+                ],
+                [
+                    "2",
+                    "河南大学",
+                    "58"
+                ],
+                [
+                    "3",
+                    "河南理工大学",
+                    "58"
+                ],
+                [
+                    "4",
+                    "河南师范大学",
+                    "58"
+                ]
+            ],
+            "formatted": [
+                {
+                    "排名": "1",
+                    "学校名称": "郑州大学",
+                    "地区总数": "58"
+                },
+                {
+                    "排名": "2",
+                    "学校名称": "河南大学",
+                    "地区总数": "58"
+                },
+                {
+                    "排名": "3",
+                    "学校名称": "河南理工大学",
+                    "地区总数": "58"
+                },
+                {
+                    "排名": "4",
+                    "学校名称": "河南师范大学",
+                    "地区总数": "58"
+                }
+            ],
+            "title": "2025-2026年郑州（河南）的大学排名_中国大学分地区排行榜",
+            "link": "http://www.nseac.com/eva/CUEA.php?DDLThird=6",
+            "displayed_link": "http://www.nseac.com › eva › CUEA",
+            "source_logo": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/SBFUxVCBYJYqbEx6O-3W6moDInqBE0_0PCfjPqDSovI.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHnmoTlpKflrabmjpLlkI3vvJ8iLCJsayI6Ikdoem1zclBsalpjZzU1eUJJT2VhaENEbHBLZmxyYVlnNW82UzVaQ04iLCJicyI6ImMtTnk1SkotdG1uejA5N3B6LWMwUHB2VC1iUjl3Wk1kcTU3TzczdTZvLW45bnZrUzB3V041S1ZrSVNvVWdFb1VnR29VZ0lvVWdLb1VJTXE0SEpDTWVOcTVfc21PdFVfM055T00yQlpqSkNjbGcyUUVVSTBDUkJITUJCc3VlUlJIVEY3MVpOZnNKenNhbnVfYUQxRmhMX0hJMUVoTVNnUnFDa1FLbV8zUFo3VThYYkw4NmRwbHpfb21QWjNRQzdMX2J3cWFfVUExQ2hCRkNoQlZBb3dBIiwiaWQiOiJmY18zX2JIYVkyVUQ2eWprZFVQN0pfZDRROF8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU5tTnFkMjQyZEdGRWJtaFpUWFpVYjBSNlpVdENlR3c1VjBzd2VsRjBRV1JFVDBVNGJYbFZVVlZSWVdablZ6aG5TMWhXYkdaNldYTkdSRWhXWW1vMU5XSmtNMGRTWDJkelZ6QmlXRnBHVmxkM1h6SmpNWEJhY3pSQlp4SVhNMTlpU0dGWk1sVkVObmxxYTJSVlVEZEtYMlEwVVRnYUlrRktTMHhHYlVscU1UZ3RTemMyTlZOWWRXaE5jRlJ5VlhsRVJHRkJRVTVWUW5jIiwiZmN2IjoiMyIsImVpIjoiM19iSGFZMlVENnlqa2RVUDdKX2Q0UTgiLCJxYyI6IkNpUG1zclBsalpjZzU1cUVJT2VjZ2VTOG1pRG1tSzhnNVpPcTVMaXFJT1dmanVXNGdoQVFmU2dKb0Q0IiwicXVlc3Rpb24iOiLmsrPljZfnnIHnmoTlpKflrabmjpLlkI3vvJ8iLCJsayI6Ikdoem1zclBsalpjZzU1eUJJT2VhaENEbHBLZmxyYVlnNW82UzVaQ04iLCJicyI6ImMtTnk1SkotdG1uejA5N3B6LWMwUHB2VC1iUjl3Wk1kcTU3TzczdTZvLW45bnZrUzB3V041S1ZrSVNvVWdFb1VnR29VZ0lvVWdLb1VJTXE0SEpDTWVOcTVfc21PdFVfM055T00yQlpqSkNjbGcyUUVVSTBDUkJITUJCc3VlUlJIVEY3MVpOZnNKenNhbnVfYUQxRmhMX0hJMUVoTVNnUnFDa1FLbV8zUFo3VThYYkw4NmRwbHpfb21QWjNRQzdMX2J3cWFfVUExQ2hCRkNoQlZBb3dBIiwiaWQiOiJmY18zX2JIYVkyVUQ2eWprZFVQN0pfZDRROF8xIn0%3D"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "省会城市当中，最接地气的那座 . #河南#郑州#旅游- YouTube",
+        "link": "https://www.google.com/search?sca_esv=a02f3e9b87f4a5a7&hl=zh-cn&gl=cn&q=%E6%B2%B3%E5%8D%97%E7%9C%81&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQzs0xSQjAfMZpwC7z8cU9YSnvSmpPXGFW5uIIz8std80oySyqFxLnYoCxeKW4uhC6eRayczzZtfto7_fmcRgAtHqigWwAAAA&sa=X&ved=2ahUKEwjN_9-198KTAxWsUaQEHexPN_wQ_coHKAF6BAgpEAM",
+        "displayed_link": "https://www.youtube.com › watch",
+        "date": "2025年5月18日",
+        "snippet": "河南郑州，所有省会城市当中，最接地气的那座🌆.",
+        "snippet_highlighted_words": [
+            "郑州"
+        ],
+        "answer": "郑州市",
+        "favicon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/3m7BUrOiwLQr3wM8CXfMrLO_z0eaoxU28N98eL_9pMw.png",
+        "source": "YouTube",
+        "thumbnail": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/j5GELnegE-PqLj_C5l2EryNtSwBn8vGkYfxpWgtu-oM.jpeg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "河南省省会是哪个城市?",
+            "link": "http://set.baidu.com/view/8f1c8b8bf6335a8102d276a20029bd64793e6271.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://set.baidu.com/view/8f1c8b8bf6335a8102d276a20029bd64793e6271.html&ved=2ahUKEwjN_9-198KTAxWsUaQEHexPN_wQFnoECBkQAQ",
+            "displayed_link": "http://set.baidu.com › view",
+            "favicon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0Pall8vjiDxRn9q2D5IgEgI.png",
+            "snippet": "河南省省会是哪个城市? A. 郑州市. B. 开封市. C. 洛阳市. D. 南阳市 答案： a) 郑州市 解析： 本题考察中国省级行政区划的基础知识，要求准确识别河南省的省会城市。",
+            "snippet_highlighted_words": [
+                "郑州市"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "河南省省会是哪个城市? A. 郑州市. B. 开封市. C. 洛阳市. D. 南阳市 答案： a) 郑州市 解析： 本题考察中国省级行政区划的基础知识，要求准确识别河南省的省会城市。",
+                    "source_info_link": "http://set.baidu.com/view/8f1c8b8bf6335a8102d276a20029bd64793e6271.html",
+                    "icon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0GWukCtWTi5vMevymUZNvog4k0-O4D_RiQ20xY80bPHs.png"
+                },
+                "languages": [
+                    "zh"
+                ],
+                "regions": [
+                    "CN"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://set.baidu.com/view/8f1c8b8bf6335a8102d276a20029bd64793e6271.html&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fset.baidu.com%2Fview%2F8f1c8b8bf6335a8102d276a20029bd64793e6271.html",
+            "source": "百度文库"
+        },
+        {
+            "position": 2,
+            "title": "開封，怎麼就不能做河南省會呢？",
+            "link": "https://www.youtube.com/watch?v=vugm4nivBDA",
+            "displayed_link": "2万+ 次观看 · 3年前",
+            "thumbnail": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0ORzPxVDnu3pmWQChVXE1tE.jpeg",
+            "favicon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0E9ELfDkyDDnkqlHi4M8Ulc.png",
+            "snippet": "... 是開封的，每次聊到河南他都會說：要 ... 城市觀察系列： 成都經濟發展得好，全靠“吸血”？ https://youtu.be/bYOfbbN31Xs 廣西為何是 ...",
+            "duration": "7:31",
+            "about_this_result": {
+                "source": {
+                    "description": "... 是開封的，每次聊到河南他都會說：要 ... 城市觀察系列： 成都經濟發展得好，全靠“吸血”？ https://youtu.be/bYOfbbN31Xs 廣西為何是 ...",
+                    "source_info_link": "https://www.youtube.com/watch?v=vugm4nivBDA",
+                    "icon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0Cx__sebAlAi8a0x2qUm6wV4xjiJRdG-WQd3i0phz_I6.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=vugm4nivBDA&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dvugm4nivBDA",
+            "missing": [
+                "省会"
+            ],
+            "must_include": {
+                "word": "省会",
+                "link": "https://www.google.com/search?sca_esv=a02f3e9b87f4a5a7&hl=zh-cn&gl=cn&q=%E6%B2%B3%E5%8D%97%E7%9A%84+%22%E7%9C%81%E4%BC%9A%22+%E6%98%AF%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%EF%BC%9F&sa=X&ved=2ahUKEwjN_9-198KTAxWsUaQEHexPN_wQ5t4CegQIGBAT"
+            },
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRq40kdxkORkOSY3WZWfm6NbPMtTOhZTDC2YA",
+            "source": "YouTube · 利利川"
+        },
+        {
+            "position": 3,
+            "title": "河南省会属于哪里的城市名称- 抖音",
+            "link": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BC%9A%E5%B1%9E%E4%BA%8E%E5%93%AA%E9%87%8C%E7%9A%84%E5%9F%8E%E5%B8%82%E5%90%8D%E7%A7%B0",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.douyin.com/search/%25E6%25B2%25B3%25E5%258D%2597%25E7%259C%2581%25E4%25BC%259A%25E5%25B1%259E%25E4%25BA%258E%25E5%2593%25AA%25E9%2587%258C%25E7%259A%2584%25E5%259F%258E%25E5%25B8%2582%25E5%2590%258D%25E7%25A7%25B0&ved=2ahUKEwjN_9-198KTAxWsUaQEHexPN_wQFnoECDkQAQ",
+            "displayed_link": "https://www.douyin.com › search › 河南省会属于哪里的...",
+            "favicon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0MfvQDTtKwkQYntiQXq4JzM.png",
+            "date": "2026年2月25日",
+            "snippet": "00:04 河南的省会是长沙、洛阳、开封、郑州。 ... 中国省会的城市大全详细记录每个市归哪个省…… ... 00:05 河南郑州是我国唯一一座叫河南郑州的城市。 ... 吃饱 ...",
+            "snippet_highlighted_words": [
+                "河南的省会是",
+                "省会",
+                "城市",
+                "河南",
+                "河南",
+                "城市"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "00:04 河南的省会是长沙、洛阳、开封、郑州。 ... 中国省会的城市大全详细记录每个市归哪个省…… ... 00:05 河南郑州是我国唯一一座叫河南\n郑州的城市。 ... 吃饱 ...",
+                    "source_info_link": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BC%9A%E5%B1%9E%E4%BA%8E%E5%93%AA%E9%87%8C%E7%9A%84%E5%9F%8E%E5%B8%82%E5%90%8D%E7%A7%B0",
+                    "icon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0A4ndV7OXZOXGIkk4OiwaAk2QFbSpy-pAq0auPa4otlV.png"
+                },
+                "languages": [
+                    "zh"
+                ],
+                "regions": [
+                    "CN"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BC%9A%E5%B1%9E%E4%BA%8E%E5%93%AA%E9%87%8C%E7%9A%84%E5%9F%8E%E5%B8%82%E5%90%8D%E7%A7%B0&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.douyin.com%2Fsearch%2F%25E6%25B2%25B3%25E5%258D%2597%25E7%259C%2581%25E4%25BC%259A%25E5%25B1%259E%25E4%25BA%258E%25E5%2593%25AA%25E9%2587%258C%25E7%259A%2584%25E5%259F%258E%25E5%25B8%2582%25E5%2590%258D%25E7%25A7%25B0",
+            "source": "Douyin"
+        },
+        {
+            "position": 4,
+            "title": "河南省会为何从开封迁至郑州，结合当时的历史背景",
+            "link": "https://www.youtube.com/watch?v=tHTFuvkfc5A",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DtHTFuvkfc5A&ved=2ahUKEwjN_9-198KTAxWsUaQEHexPN_wQFnoECDYQAQ",
+            "displayed_link": "1周前",
+            "favicon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0JhUxfuXCsFVOY0L5XKgMEc.png",
+            "snippet": "河南省会为何从开封迁至郑州，结合当时的历史背景，此举并无不妥.",
+            "snippet_highlighted_words": [
+                "河南省会"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "河南省会为何从开封迁至郑州，结合当时的历史背景，此举并无不妥.",
+                    "source_info_link": "https://www.youtube.com/watch?v=tHTFuvkfc5A",
+                    "icon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0IQO0RyjXellMpHddh7S4Z1xETjRvlJrereSouPH594b.png"
+                },
+                "languages": [
+                    "zh"
+                ],
+                "regions": [
+                    "CN"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=tHTFuvkfc5A&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtHTFuvkfc5A",
+            "source": "YouTube · 历史DVD"
+        },
+        {
+            "position": 5,
+            "title": "河南省会城市郑州（河南省省会郑州是几线城市） - H同走旅游",
+            "link": "https://www.hearfly.com/?id=903570",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hearfly.com/%3Fid%3D903570&ved=2ahUKEwjN_9-198KTAxWsUaQEHexPN_wQFnoECDMQAQ",
+            "displayed_link": "https://www.hearfly.com › ...",
+            "favicon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0K81EbguMAaGGqIqXyMVtQU.png",
+            "date": "2024年11月22日",
+            "snippet": "今天来给大家分享一下关于河南省会城市郑州（河南省省会郑州是几线城市）的问题，以下是对此问题的归纳整理，让我们一起来看看吧。 河南：省会城市郑州著名 ...",
+            "snippet_highlighted_words": [
+                "河南省会城市郑州"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "今天来给大家分享一下关于河南省会城市郑州（河南省省会郑州是几线城市）的问题，以下是对此问题的归纳整理，让我们一起来看看吧。 河南：省会城市郑州著名 ...",
+                    "source_info_link": "https://www.hearfly.com/?id=903570",
+                    "icon": "https://serpapi.com/searches/69c7f6da31a60138066c01a5/images/p-tgmLMZhwaKtSP8NTzl0GcwUDP3G7hSMqf6AaCG8hHrp54JJNudI984KSaruQk-.png"
+                },
+                "languages": [
+                    "zh"
+                ],
+                "regions": [
+                    "CN"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.hearfly.com/?id=903570&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hearfly.com%2F%3Fid%3D903570",
+            "source": "hearfly.com"
+        }
+    ]
+}
